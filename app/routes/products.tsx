@@ -78,7 +78,7 @@ const Index: FC = () => {
     {
       icon: <div>Icon 13</div>,
       title: "Card 13",
-      description: "Description 13",
+      description: "Description 122",
       image: "/images/sample12.jpg",
     },
   ];
